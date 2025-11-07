@@ -16,6 +16,16 @@
 			path = "Project103-Ch4";
 			sourceTree = "<group>";
 		};
+		C47D218A2EB66E5A00107A3A /* New Folder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "New Folder";
+			sourceTree = "<group>";
+		};
+		C47D21992EBAF3BC00107A3A /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +42,8 @@
 		C47D21722EB66D9600107A3A = {
 			isa = PBXGroup;
 			children = (
+				C47D21992EBAF3BC00107A3A /* Views */,
+				C47D218A2EB66E5A00107A3A /* New Folder */,
 				C47D217D2EB66D9600107A3A /* Project103-Ch4 */,
 				C47D217C2EB66D9600107A3A /* Products */,
 			);
@@ -62,6 +74,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				C47D217D2EB66D9600107A3A /* Project103-Ch4 */,
+				C47D218A2EB66E5A00107A3A /* New Folder */,
+				C47D21992EBAF3BC00107A3A /* Views */,
 			);
 			name = "Project103-Ch4";
 			packageProductDependencies = (
