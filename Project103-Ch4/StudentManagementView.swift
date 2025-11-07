@@ -14,6 +14,7 @@ struct Student: Identifiable {
     }
 }
 
+
 // Main view/ body
 
 struct StudentManagementView: View {

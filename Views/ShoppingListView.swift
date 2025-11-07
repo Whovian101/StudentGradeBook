@@ -20,7 +20,8 @@ struct ShoppingListView: View {
                 Color.gray.opacity(0.2)
                     .ignoresSafeArea()
                 
-                VStack {
+           
+        VStack {
                     // Title
                     Text("Shopping List")
                         .font(.largeTitle)
